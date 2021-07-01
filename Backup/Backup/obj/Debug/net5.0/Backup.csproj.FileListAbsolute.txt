@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.exe
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.deps.json
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.runtimeconfig.json
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.runtimeconfig.dev.json
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.dll
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\ref\Backup.dll
+C:\Users\user\source\repos\Backup\Backup\bin\Debug\net5.0\Backup.pdb
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.AssemblyInfo.cs
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.dll
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\ref\Backup.dll
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.pdb
+C:\Users\user\source\repos\Backup\Backup\obj\Debug\net5.0\Backup.genruntimeconfig.cache
